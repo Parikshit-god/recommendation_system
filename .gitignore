@@ -1,0 +1,50 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE-specific files
+.idea/
+.DS_Store
+
+# Virtual environment
+.venv/
+build/
+dist/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Thumbnails
+.thumbs/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+System Volume Information
+$$RECYCLE.BIN
+Desktop.ini
+
+# Package files
+*.egg
+*.egg-info/
+.eggs/
+
+# My Files
+movies.pkl
+similarity.pkl
