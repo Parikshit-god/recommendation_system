@@ -44,7 +44,3 @@ Desktop.ini
 *.egg
 *.egg-info/
 .eggs/
-
-# My Files
-movies.pkl
-similarity.pkl
