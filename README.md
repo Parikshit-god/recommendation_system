@@ -110,21 +110,6 @@ Cosine Similarity
 Similarity Matrix (.pkl)
 ⬇️
 
-Streamlit Web Application
-
----
-
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```
-screenshots/home.png
-screenshots/recommendations.png
-```
-
 ---
 
 ## 📈 Future Improvements
