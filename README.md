@@ -7,7 +7,7 @@ A Content-Based Movie Recommendation System that suggests movies similar to the 
 ## 🚀 Live Demo
 
 🔗 **Live Application:**  
-(Add your Streamlit URL here)
+https://recommendationsystem-god.streamlit.app/
 
 ---
 
